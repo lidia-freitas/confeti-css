@@ -1,0 +1,12 @@
+title                   : confeti-css
+repo                    : https://github.com
+version                 : 0.0.0
+src                     : src
+theme                   : src/themes/confeti-css-theme
+output                  : docs
+snippets                : src/snippets
+
+sections                :
+
+  - title               : Overview
+    content             : 'src/content/overview.md'
